@@ -1,0 +1,3 @@
+pair_id,frequency_a_ghz,frequency_b_ghz,frame_a,frame_b
+synthetic_CO_z2,76.846,115.26532996666667,LSRK,LSRK
+synthetic_unmatched,100,127.123456,LSRK,LSRK
